@@ -1,6 +1,6 @@
 pkgname=st-boppy-git
 _pkgname=st
-pkgver=0.8.4.1
+pkgver=0.8.4.r2.2d6bf8e
 pkgrel=1
 epoch=1
 pkgdesc="Boppy's simple (suckless) terminal with few tweaks."
